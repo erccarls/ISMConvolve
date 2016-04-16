@@ -17,7 +17,7 @@ You will also need to have the following python packages installed: numpy, scipy
 
 Code + support files tarball (~250 MB): dmcr_convolve.tar.gz
 We also display a portion of the example.py code here to demonstrate ease of use (note that most of the below code is just comments).
- 
+```python 
 #------------------------------------------------------------------------------------------------
 # example.py
 # In this script we demonstrate the usage of convolution code from arXiv xxxx.xxxx.  
@@ -143,7 +143,7 @@ for dist in dists:
     cube = np.array([CR.ConvolveCR(l_max=40, b_max=40, res=.25,  species='proton', E=E, r_min=0., r_max=20.,source_dist=dist,z_step=0.02,func=NFWFunc) 
                      for E in energies])
     components_p.append(cube)
-
+```
            
 
 
