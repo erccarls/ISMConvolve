@@ -1,0 +1,114 @@
+[W 11:20:59.398 NotebookApp] Unrecognized alias: '--profile=nbserver', it will probably have no effect.
+[I 11:20:59.424 NotebookApp] The port 10000 is already in use, trying another random port.
+[I 11:20:59.429 NotebookApp] Serving notebooks from local directory: /data/nugget_dm/export/dmcr_morphology
+[I 11:20:59.429 NotebookApp] 0 active kernels 
+[I 11:20:59.429 NotebookApp] The IPython Notebook is running at: https://[all ip addresses on your system]:10001/
+[I 11:20:59.429 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 11:21:06.932 NotebookApp] 302 GET / (24.6.90.144) 1.14ms
+[I 11:21:06.956 NotebookApp] 302 GET /tree (24.6.90.144) 2.06ms
+[I 11:21:09.512 NotebookApp] 302 POST /login?next=%2Ftree (24.6.90.144) 1.76ms
+[I 11:21:17.680 NotebookApp] Creating new notebook in 
+[I 11:21:18.838 NotebookApp] Kernel started: 918b8033-e72c-450b-a655-c497d6e907be
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 11:22:48.525 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:23:19.099 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:23:43.148 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:24:07.171 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:24:11.858 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:24:14.845 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:24:27.476 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:24:35.587 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:25:18.889 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:25:28.872 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:27:18.887 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:27:46.934 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:28:04.099 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:28:08.213 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:28:09.696 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:28:13.897 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:28:15.569 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:28:55.197 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:29:18.939 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:29:19.221 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:30:33.422 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:30:42.947 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:30:47.986 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:30:59.253 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:31:02.075 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:31:07.212 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:31:18.884 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:31:31.843 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:32:15.341 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:32:43.268 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:33:03.121 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:33:05.470 NotebookApp] Kernel restarted: 918b8033-e72c-450b-a655-c497d6e907be
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 11:33:18.860 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:35:19.005 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:35:32.557 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:36:04.426 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:36:35.571 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:36:44.300 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:36:52.639 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:37:18.892 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:37:22.217 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:38:00.124 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:38:06.550 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:38:26.404 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:38:34.832 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:38:35.544 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:39:18.905 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:40:08.361 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:40:15.157 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:41:18.896 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:41:45.657 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:42:40.148 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:42:41.986 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:43:15.453 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:43:18.891 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:44:10.242 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:44:40.079 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:45:12.374 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:45:15.654 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:45:18.933 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:45:37.468 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:45:42.355 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:46:23.044 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:46:46.979 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:47:17.990 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:48:19.862 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:48:28.940 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:48:30.511 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:48:58.212 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:49:06.937 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:49:18.963 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:49:23.696 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:49:33.254 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:49:49.620 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:49:59.482 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:50:02.401 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:51:19.821 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:55:19.009 NotebookApp] Saving file at /DM Density Profiles.ipynb
+[I 12:05:19.104 NotebookApp] Saving file at /DM Density Profiles.ipynb
+[I 12:07:18.994 NotebookApp] Saving file at /DM Density Profiles.ipynb
+[I 12:09:19.001 NotebookApp] Saving file at /DM Density Profiles.ipynb
+[I 12:10:43.618 NotebookApp] Kernel restarted: 918b8033-e72c-450b-a655-c497d6e907be
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 12:11:19.010 NotebookApp] Saving file at /DM Density Profiles.ipynb
+[I 12:13:19.009 NotebookApp] Saving file at /DM Density Profiles.ipynb
+[W 00:19:43.768 NotebookApp] WebSocket ping timeout after 119982 ms.
+[I 13:39:48.601 NotebookApp] Saving file at /DM Density Profiles.ipynb
+[I 13:40:14.922 NotebookApp] Saving file at /DM Density Profiles.ipynb
+[I 13:41:33.886 NotebookApp] Saving file at /DM Density Profiles.ipynb
+[I 13:41:48.146 NotebookApp] Saving file at /DM Density Profiles.ipynb
+[I 13:41:53.590 NotebookApp] Saving file at /DM Density Profiles.ipynb
+[I 13:42:14.905 NotebookApp] Saving file at /DM Density Profiles.ipynb
+[I 13:44:14.913 NotebookApp] Saving file at /DM Density Profiles.ipynb
+[I 13:45:08.767 NotebookApp] Saving file at /DM Density Profiles.ipynb
+[I 13:45:16.917 NotebookApp] Saving file at /DM Density Profiles.ipynb
+[I 13:46:14.936 NotebookApp] Saving file at /DM Density Profiles.ipynb
+[I 13:47:17.865 NotebookApp] Saving file at /DM Density Profiles.ipynb
+[I 13:48:10.275 NotebookApp] Saving file at /DM Density Profiles.ipynb
